@@ -55,7 +55,15 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+| Contributor | Commits |
+|---|---|
+| [@glinton](https://github.com/glinton) | 122 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
+| [@sdomino](https://github.com/sdomino) | 5 |
+| [@danhunsaker](https://github.com/danhunsaker) | 2 |
+| [@tylerflint](https://github.com/tylerflint) | 2 |
+| [@Tolmark12](https://github.com/Tolmark12) | 1 |
+| [@rgoomar](https://github.com/rgoomar) | 1 |
 <!-- AI:end:contributors -->
 
 ## Origins
